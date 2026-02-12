@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "YY（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク）",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2026-02-12T10:00:04.539348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_YY_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & Hatsune Miku)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_YY_(feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_Hatsune_Miku)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_YY_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YY (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_YY_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
