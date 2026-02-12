@@ -1,4 +1,4 @@
-# Vivid BAD SQUAD – YY
+# Vivid BAD SQUAD – YY（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
